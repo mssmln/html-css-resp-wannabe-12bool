@@ -1,0 +1,9 @@
+.container{
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.row [class*="col-"]{
+  height: 100%;
+  line-height: 200px;
+}
