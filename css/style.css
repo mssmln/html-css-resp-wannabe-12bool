@@ -18,14 +18,15 @@
 #why img{
   background-color: blue;
 }
-#why p::after{
+/* #why p::after{
   content: '';
   display: block;
   height: 2px;
   margin-top: 9px;
   background-color: black;
-}
+} */
 
-#why p:last-child{
+/* #why .row div.m-t-20:last-child p{
   content: '';
-}
+  height: 0;
+} */
